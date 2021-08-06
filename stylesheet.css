@@ -1,0 +1,43 @@
+.nav-item {
+    font-family: 'Roboto Slab', serif;
+    font-weight: bold;
+}
+
+.form-start {
+    margin: 40px;
+    color: #1b3132;
+}
+.dog-info {
+    font-family: 'Roboto Slab', serif;
+    font-weight: bold;
+    width: 50%;
+    ;
+}
+body {
+    background-color: #e8e8e8;
+    
+}
+.jumbotron {
+    border: solid 10px black;
+    color:#9987d6;
+    padding: 2em;
+    margin-top: 2em;
+    margin-bottom: 3em;
+}
+label {
+    color: #1b3132;
+}
+.main-content {
+    border-left: #dbe78e solid 2em;
+    border-right: #dbe78e solid 2em;
+
+}
+.explore h1{
+    margin: auto;
+}
+.welcome-content {
+    background-color:#dbe78e ;
+}
+#dogrow1 {
+    margin: auto;
+}
