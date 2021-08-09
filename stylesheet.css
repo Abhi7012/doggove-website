@@ -5,7 +5,7 @@
 
 .form-start {
     margin: 40px;
-    color: #1b3132;
+    color: #dfcb5b;
 }
 .dog-info {
     font-family: 'Roboto Slab', serif;
@@ -19,13 +19,15 @@ body {
 }
 .jumbotron {
     border: solid 10px black;
-    color:#9987d6;
     padding: 2em;
     margin-top: 2em;
     margin-bottom: 3em;
+    background-image: url(logo.png) ;
+    background-size: 100%;
+    background-repeat: no-repeat;
 }
 label {
-    color: #1b3132;
+    color: #dfcb5b;
 }
 .main-content {
     border-left: #dbe78e solid 2em;
@@ -40,4 +42,45 @@ label {
 }
 #dogrow1 {
     margin: auto;
+}
+footer {
+    background-color: #483a44;
+    font: white;
+    bottom: 0px;
+}
+.brand-name {
+    margin: 10%;
+    color: wheat;
+}
+footer {
+    color:whitesmoke ;
+}
+
+
+#contact {
+    margin-top: 140px;
+    margin-left: 50px;
+}
+
+#follow {
+    margin-top: 150px;
+    padding: 50px;
+}
+footer h3,h2{
+    color: black;
+    border-bottom: blue;
+}
+footer p{
+    font: bold;
+}
+.title-bar {
+    background-image: url(dogbg.jpg);
+    height: 50px;
+}
+#search-my-dog {
+    padding: 0px;
+    margin-top:5px;
+    height: 40px;
+    width: 300px;
+    right: 0%;
 }
