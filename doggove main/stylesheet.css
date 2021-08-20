@@ -1,0 +1,86 @@
+.nav-item {
+    font-family: 'Roboto Slab', serif;
+    font-weight: bold;
+}
+
+.form-start {
+    margin: 40px;
+    color: #dfcb5b;
+}
+.dog-info {
+    font-family: 'Roboto Slab', serif;
+    font-weight: bold;
+    width: 50%;
+    ;
+}
+body {
+    background-color: #e8e8e8;
+    
+}
+.jumbotron {
+    border: solid 10px black;
+    padding: 2em;
+    margin-top: 2em;
+    margin-bottom: 3em;
+    background-image: url(logo.png) ;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+label {
+    color: #dfcb5b;
+}
+.main-content {
+    border-left: #dbe78e solid 2em;
+    border-right: #dbe78e solid 2em;
+
+}
+.explore h1{
+    margin: auto;
+}
+.welcome-content {
+    background-color:#dbe78e ;
+}
+#dogrow1 {
+    margin: auto;
+}
+footer {
+    background-color: #483a44;
+    font: white;
+    bottom: 0px;
+}
+.brand-name {
+    margin: 10%;
+    color: wheat;
+}
+footer {
+    color:whitesmoke ;
+}
+
+
+#contact {
+    margin-top: 140px;
+    margin-left: 50px;
+}
+
+#follow {
+    margin-top: 150px;
+    padding: 50px;
+}
+footer h3,h2{
+    color: black;
+    border-bottom: blue;
+}
+footer p{
+    font: bold;
+}
+.title-bar {
+    background-image: url(dogbg.jpg);
+    height: 50px;
+}
+#search-my-dog {
+    padding: 0px;
+    margin-top:5px;
+    height: 40px;
+    width: 300px;
+    right: 0%;
+}
